@@ -3,7 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737412781/ei/TXyOZ9r7DqmkjuMP6YDuoAc/ip/103.248.217.61/id/4-HZtyYpMtM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51365994/txs/51365992%2C51365993%2C51365994/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-MKT7W2Ji5-QFNr3sClfc-RP2t1GmjtqZsEsCDsseSSYkCQvOU6CDrO54iBTwuPXjjyZQ/spc/9kzgDZv3BbpkWn_K7-BITIGzYAHoARQ8I7UDk351PkypeF6cO8rviq1zvNZqfPlAgVAz5W3bvxW4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge8-Sxlg-tCgN8P_QLwyeOBDxGbuOuh02jFUbD7b401MCIEmwPeLgIUVsEL-dI0-dmtJeCpjRR90qAVJGIJPazvUW/file/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="TransTv.id" tvg-logo="" group-title="Favrite",Trans TV Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://cdn13jtedge.indihometv.com/atm/hlsv3/transtv/transtv-avc1_1200000=4-mp4a_96000=5.m3u8
